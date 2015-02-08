@@ -31,7 +31,7 @@ layout: page
 		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have several set up. There are two you&rsquo;ll be in by default:</p>
 		<ul class="no-bullets">
 			<li><span class="label radius">#meta:</span> occasional announcements</li>
-			<li><span class="label radius">#hello:</span> meet and greet</li>
+			<li><span class="label radius">#hello:</span> meet and greet; general chat</li>
 		</ul>
 		<p>All rooms are opt-in except <span class="label radius">announcements</span>, which is why it is kept low-volume.</p>
 	</div>
