@@ -33,7 +33,7 @@ layout: page
 			<li><span class="label radius">#meta:</span> occasional announcements</li>
 			<li><span class="label radius">#hello:</span> meet and greet; general chat</li>
 		</ul>
-		<p>All rooms are opt-in except <span class="label radius">announcements</span>, which is why it is kept low-volume.</p>
+		<p>All rooms are opt-in except <span class="label radius">meta</span>, which is why it is kept low-volume.</p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>What are the rules?</h2>
