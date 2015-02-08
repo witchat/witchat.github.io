@@ -12,7 +12,7 @@ layout: page
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>How do I join?</h2>
-		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing <a href="mailto:howdyrachael@gmail.com">howdyrachael@gmail.com</a>.</p>
+		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing <a href="mailto:howdyrachael@gmail.com">howdyrachael@gmail.com</a>. You can also reach out to the group organizer on twitter, <a href="http://twitter.com/zenparty">@zenparty</a>.</p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
