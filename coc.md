@@ -59,11 +59,11 @@ layout: page
 		<a name="reporting"></a>
 		<h2>Reporting</h2>
 
-		<p>If you are being harassed by a member of Women in Tech, notice that someone else is being harassed, or have any other concerns, please contact the administrators by typing <code>/admin &lt;your message&gt;</code> in Slack, or contact an admin directly via DM. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.</p>
+		<p>If you are being harassed by a member of Women in Tech, notice that someone else is being harassed, or have any other concerns, please contact @rachaelh <span style="display:none;">the administrators by typing <code>/admin &lt;your message&gt;</code> in Slack, or contact an admin</span> directly via DM. <span style="display:none;">If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.</span></p>
 
 		<p>This code of conduct applies to Women in Tech spaces, but if you are being harassed by a member of Women in Tech outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Women in Tech members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from Women in Tech based on their past behavior, including behavior outside Women in Tech spaces and behavior towards people who are not in Women in Tech.</p>
 
-		<p>In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.</p>
+		<p>In order to protect volunteer admins from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.</p>
 
 		<p>We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we&rsquo;ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of Women in Tech members or the general public. We will not name harassment victims without their affirmative consent.</p>
 
