@@ -19,12 +19,7 @@ layout: page
 		<p>Anybody who identifies as a woman. Male friends and allies: we appreciate your support, but this space is for us.</p>
 	</div>
 </div>
-<div class="row">
-	<div class="columns">
-		<h2>I want to bring a friend!</h2>
-		<p>Once you’re in the group, just message an admin with the email address you wish to invite, like so: <code>/admin Would you invite [[friend&rsquo;s email here]]?</code></p>
-	</div>
-</div>
+
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>Channels</h2>
