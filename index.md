@@ -16,7 +16,7 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
-		<p>Anybody who identifies as a woman. Male friends and allies: we appreciate your support, but this space is for us.</p>
+		<p>You are welcome to join WITchat if you identify as a woman in any way that's meaningful to you. Male friends and allies: we appreciate your support, but this space is for us.</p>
 	</div>
 </div>
 
