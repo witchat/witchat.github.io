@@ -14,7 +14,7 @@ layout: page
 		<h2>How do I join?</h2>
 		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing <a href="mailto:howdyrachael@gmail.com">howdyrachael@gmail.com</a>. You can also reach out to the group organizer on twitter, <a href="http://twitter.com/zenparty">@zenparty</a>.</p>
 		
-		<form action="http//formspree.io/howdyrachael@gmail.com" method="post">
+		<form action="http://formspree.io/howdyrachael@gmail.com" method="post">
     			<p>
     				<label for="name">Name:</label>
     				<input type="text" name="name" />
