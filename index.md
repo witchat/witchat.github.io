@@ -12,7 +12,7 @@ layout: page
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>How do I join?</h2>
-		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing <a href="mailto:howdyrachael@gmail.com">howdyrachael@gmail.com</a>. You can also reach out to the group organizer on twitter, <a href="http://twitter.com/zenparty">@zenparty</a>.</p>
+		<p>The Slack is invitation-only, but invitations are freely granted. You can submit a request to the group admin (<a href="http://twitter.com/zenparty">@zenparty</a>) using the form below. If your form submission failed, please reach out on twitter or by email at howdyrachaelATgmail.</p>
 		
 		<form action="http://formspree.io/howdyrachael@gmail.com" method="post">
     			<p>
@@ -29,7 +29,7 @@ layout: page
     			</p>
     
     			<p class="button">
-        			<button type="submit">Send your message</button>
+        			<button type="submit">Send</button>
     			</p>
 		</form>
 		
@@ -45,10 +45,10 @@ layout: page
 		<h2>Channels</h2>
 		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have several set up. There are two you&rsquo;ll be in by default:</p>
 		<ul class="no-bullets">
-			<li><span class="label radius">#meta:</span> occasional announcements</li>
-			<li><span class="label radius">#hello:</span> meet and greet; general chat</li>
+			<li><span class="label radius">#meta:</span> occasional announcements and discussion about group governance</li>
+			<li><span class="label radius">#main:</span> meet and greet; general chat</li>
 		</ul>
-		<p>All rooms are opt-in except <span class="label radius">meta</span>, which is why it is kept low-volume.</p>
+		<p>All rooms are opt-in except <span class="label radius">meta</span>, which is why we try to keep it low-volume.</p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>What are the rules?</h2>
