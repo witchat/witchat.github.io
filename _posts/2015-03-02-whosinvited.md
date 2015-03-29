@@ -1,8 +1,10 @@
 ---
 title: "Who's invited?"
-bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: red  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
 fa-icon: circle-thin
 ---
 
-  #### A new section- oh the humanity!
+You are welcome to join Women in Tech chat if you identify as a woman <em>in any way that's meaningful to you</em>. 
+
+Male friends and allies: we appreciate your support, but this space is for us.
