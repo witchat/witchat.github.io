@@ -2,12 +2,12 @@
 title: "The Rules"
 bg: orange  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
-fa-icon: gavel
+fa-icon: group
 ---
 
-## Code of Conduct ##
+## WITchat Community Code of Conduct ##
 
-“Women in Tech” in this document refers to the Women in Technology Slack organization at womenintech.slack.com. “The administrators” refers to the administrators on this organization, a list is available at the top of the Team Directory (must be a member of the organization to view).
+“Women in Tech” in this document refers to the Women in Technology chat group at womenintech.slack.com. “The administrators” refers to the administrators on this organization, a list is available at the top of the Team Directory (must be a member of the organization to view).
 
 Women in Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
