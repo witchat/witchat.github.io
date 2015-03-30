@@ -1,13 +1,13 @@
 ---
 title: "The Rules"
-bg: orange  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: indigo  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
 fa-icon: group
 ---
 
 ## WITchat Community Code of Conduct ##
 
-“Women in Tech” in this document refers to the Women in Technology chat group at womenintech.slack.com. “The administrators” refers to the administrators on this organization, a list is available at the top of the Team Directory (must be a member of the organization to view).
+“Women in Tech” in this document refers to the Women in Technology chat group at [womenintech.slack.com](http://womenintech.slack.com). “The administrators” refers to the administrators on this organization, a list is available at the top of the [Team Directory](https://womenintech.slack.com/team) (must be a member of the organization to view).
 
 Women in Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
@@ -43,7 +43,8 @@ Some Women in Tech spaces may have additional rules in place, which will be made
 
 ## Reporting ##
 
-If you are being harassed by a member of Women in Tech, notice that someone else is being harassed, or have any other concerns, please contact @rachaelh directly via DM.
+If you are being harassed by a member of Women in Tech, notice that someone else is being harassed, or have any other concerns, please contact [@rachaelh](https://womenintech.slack.com/team/rachaelh) directly via DM.
+
 This code of conduct applies to Women in Tech spaces, but if you are being harassed by a member of Women in Tech outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Women in Tech members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from Women in Tech based on their past behavior, including behavior outside Women in Tech spaces and behavior towards people who are not in Women in Tech.
 
 In order to protect volunteer admins from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
