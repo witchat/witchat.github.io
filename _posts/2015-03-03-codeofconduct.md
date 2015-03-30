@@ -1,7 +1,7 @@
 ---
 title: "The Rules"
 bg: indigo  #defined in _config.yml, can use html color like '#0fbfcf'
-color: black   #text color
+color: white   #text color
 fa-icon: group
 ---
 
