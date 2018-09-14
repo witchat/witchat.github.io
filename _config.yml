@@ -15,8 +15,8 @@ markdown: kramdown
 ### content configuration ###
 title:       "Women In Technology Chat Group"
 keywords:    "women in tech, wit, witchat, community, feminism, technology, programming, software, development, slack"
-description: "Public landing page for Women In Technology chat group. Read code of conduct, request invite here."
-source_link: "http://witchat.github.io"
+description: "Women In Technology chat group. Read code of conduct, request invite here."
+source_link: "https://witchat.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
