@@ -15,6 +15,8 @@ This code of conduct applies to all Women in Tech spaces, including public chann
 
 Some Women in Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
+If you're a recruiter, please see below this section for some additional requests of you.
+
 ### Harassment includes: ##
 
 - Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
