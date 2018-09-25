@@ -42,6 +42,14 @@ title: Women in Technology Slack Chat
           </span>
           <h5 class="icon-title">{{ page.title }}</h5>
         </div>
+        {% else %}
+        <div class="subtlecircle sectiondivider faicon">
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-stack-1x"></i>
+          </span>
+          <h5 class="icon-title">{{ page.title }}</h5>
+        </div>
         {% endif %}
         <div class="container {{ page.style }}">
           {{ page.content }}
