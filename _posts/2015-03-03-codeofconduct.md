@@ -43,7 +43,7 @@ Some Women in Tech spaces may have additional rules in place, which will be made
 
 ## Reporting ##
 
-If you are being harassed by a member of Women in Tech, notice that someone else is being harassed, or have any other concerns, please contact [@rachaelh](https://womenintech.slack.com/team/rachaelh) directly via DM.
+If you are being harassed by a member of Women in Tech, notice that someone else is being harassed, or have any other concerns, please contact the admins by sending a message with the `/admin` command. Just `/admin Hey, I have an issue I'd love to discuss` is enough!
 
 This code of conduct applies to Women in Tech spaces, but if you are being harassed by a member of Women in Tech outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Women in Tech members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from Women in Tech based on their past behavior, including behavior outside Women in Tech spaces and behavior towards people who are not in Women in Tech.
 
