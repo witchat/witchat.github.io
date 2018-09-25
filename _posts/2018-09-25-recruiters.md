@@ -7,7 +7,7 @@ You're welcome to recruit in this slack. However, we have a few specific request
 
 If someone asks you not to contact them, stop immediately. Not doing so is harassment and is not allowed by our [code of conduct](#codeofconduct)
 
-It'd be amazing if you actually participated in the community as a person. Generally people are much more receptive to other queer folks who participate in their space than outsiders trying merely to recruit here.
+It'd be amazing if you actually participated in the community as a person. Generally people are much more receptive to other folks who participate in their space than outsiders trying merely to recruit here.
 
 Make use of the #job-board channel and spreadsheet pinned there. People seeking jobs look there first.
 
