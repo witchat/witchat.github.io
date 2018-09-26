@@ -65,4 +65,4 @@ If you're coming here _only_ to make a sales pitch, please don't.
 
 However, we'd love to know what our members are up to. Join in. Get to know us. It'd be amazing if you actually participated in the community as a person. Generally people are much more receptive to other folks who participate in their space than outsiders trying merely to get attention.
 
-Keep it topical. We have channels for a lot of things. Trying to get the attention of several thousand people at once by posting in #main is unkind and out of proportion. Go find the place where people who are actually going to be interested are, and talk to them. If you can' find such a place, this may not be the community for you.
+Keep it topical. We have channels for a lot of things. Trying to get the attention of several thousand people at once by posting in #main is unkind and out of proportion. Go find the place where people who are actually going to be interested are, and talk to them. If you can't find such a place, this may not be the community for you.
