@@ -1,7 +1,7 @@
 ---
 title: "The Rules"
-bg: indigo  #defined in _config.yml, can use html color like '#0fbfcf'
-color: white   #text color
+bg: indigo
+color: white
 fa-icon: group
 ---
 
@@ -14,6 +14,8 @@ Women in Tech is dedicated to providing a harassment-free experience for everyon
 This code of conduct applies to all Women in Tech spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
 
 Some Women in Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+
+If you're a recruiter, please see below this section for some additional requests of you.
 
 ### Harassment includes: ##
 
