@@ -222,7 +222,7 @@
 		font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #777;
 		margin: 0;
-		width: 210px;
+		width: 350px;
 		max-width: 100%;
 		display: block;
 		margin-bottom: 20px;
@@ -239,7 +239,7 @@
 		-webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);
 		box-shadow:  0 0 3px rgba(0,0,0,.2); }
 	textarea {
-		min-height: 60px; }
+		min-height: 100px; }
 	label,
 	legend {
 		display: block;
