@@ -7,4 +7,4 @@ fa-icon: info
 
 ## You are welcome to join Women in Tech chat if you identify as a woman <em>in any way that's meaningful to you</em>. ##
 
-###Male friends & allies: we appreciate your support, but this space is for us.###
+### Male friends & allies: we appreciate your support, but this space is for us. ###
