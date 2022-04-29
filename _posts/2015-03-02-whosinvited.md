@@ -5,6 +5,6 @@ color: white   #text color
 fa-icon: info
 ---
 
-## You are welcome to join Women in Tech chat if you identify as a woman <em>in any way that's meaningful to you</em>. ##
+## Women in Tech chat is focused on women, and is open to all women in the field of tech (including trans women, nonbinary women, and cis women) and other people for whom womanness or womanhood is a meaningful component of their identity. ##
 
 ### Male friends & allies: we appreciate your support, but this space is for us. ###
